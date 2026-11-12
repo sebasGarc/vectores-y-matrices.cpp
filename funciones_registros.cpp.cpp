@@ -1,8 +1,8 @@
 // Programa 2: Funciones y registros (struct) en C++
-import <iostream>;
-import <vector>;
-import <string>;
-import <iomanip>;
+#include <iostream>
+#include <vector>
+#include <string>
+#include <iomanip>
 using namespace std;
 
 // Registro (struct) que representa un estudiante
